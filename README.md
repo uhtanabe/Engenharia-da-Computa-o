@@ -1,2 +1,2 @@
-# Engenharia-da-Computa-o
+# Engenharia-da-Computacao
 Destinado a produção dos trabalhos referentes a ECP
